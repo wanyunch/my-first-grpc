@@ -1,2 +1,4 @@
 # my-first-grpc
-I created a minimalist grpc, but it doesn't work because of the client's error, the server is available, but still to commemorate my first rpc creation
+查询库存出错rpc error: code = Internal desc = grpc: error while marshaling: failed to marshal, message is *service.ProductRequest, want proto.Message
+exit status 1
+
